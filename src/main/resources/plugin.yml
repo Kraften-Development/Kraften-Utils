@@ -1,0 +1,6 @@
+name: Kraften-Utils
+version: '${project.version}'
+main: dk.kraften.kraftenutils.Main
+api-version: 1.18
+authors: [ Bimulu, TGPGamez ]
+description: Kraften Utilities
